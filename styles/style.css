@@ -95,7 +95,7 @@ input {
 
 @media only screen and (max-width: 668px) {
   .container{
-    width: 26em;
+    width: 24em;
   }
   input{
     width: 3em;
